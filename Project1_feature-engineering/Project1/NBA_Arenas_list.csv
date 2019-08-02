@@ -1,31 +1,31 @@
-﻿Abbreviation,Team,Arena,Seats,Year,Owner
-ATL,Atlanta Hawks,State Farm Arena,"18,118",1999,Public
-BOS,Boston Celtics,TD Garden,"18,624",1995,Private
-BKN,Brooklyn Nets,Barclays Center,"17,732",2012,Public
-CHA,Charlotte Hornets,Spectrum Center,"19,077",2005,Public
-CHI,Chicago Bulls,United Center,"20,917",1994,Private
-CLE,Cleveland Cavaliers,Rocket Mortgage FieldHouse,"20,562",1994,Public
-DAL,Dallas Mavericks,American Airlines Center,"19,200",2001,Public
-DEN,Denver Nuggets,Pepsi Center,"19,155",1999,Private
-DET,Detroit Pistons,Little Caesars Arena,"20,491",2017,Public
-GSW,Golden State Warriors,Oracle Arena,"19,596",1966,Public
-HOU,Houston Rockets,Toyota Center,"18,055",2003,Public
-IND,Indiana Pacers,Bankers Life Fieldhouse,"18,165",1999,Public
-LAC,Los Angeles Clippers,Staples Center,"19,067",1999,Private
-LAL,Los Angeles Lakers,Staples Center,"19,067",1999,Private
-MEM,Memphis Grizzlies,FedExForum,"18,119",2004,Public
-MIA,Miami Heat,American Airlines Arena,"19,600",1999,Public
-MIL,Milwaukee Bucks,Fiserv Forum,"17,500",2018,Public
-MIN,Minnesota Timberwolves,Target Center,"19,356",1990,Public
-NOP,New Orleans Pelicans,Smoothie King Center,"16,867",1999,Public
-NYK,New York Knicks,Madison Square Garden,"19,812",1968,Private
-OKC,Oklahoma City Thunder,Chesapeake Energy Arena,"18,203",2002,Public
-ORL,Orlando Magic,Amway Center,"18,846",2010,Public
-PHI,Philadelphia 76ers,Wells Fargo Center,"20,478",1996,Private
-PHX,Phoenix Suns,Talking Stick Resort Arena,"18,055",1992,Public
-POR,Portland Trail Blazers,Moda Center,"19,441",1995,Private
-SAC,Sacramento Kings,Golden 1 Center,"17,500",2016,Public
-SAS,San Antonio Spurs,AT&T Center,"18,418",2002,Public
-TOR,Toronto Raptors,Scotiabank Arena,"19,800",1999,Private
-UTA,Utah Jazz,Vivint Smart Home Arena,"19,911",1991,Private
-WAS,Washington Wizards,Capital One Arena,"20,356",1997,Private
+Abbreviation,Team,Arena,Seats,Year_Open
+ATL,Atlanta Hawks,State Farm Arena,"18,118",1999
+BOS,Boston Celtics,TD Garden,"18,624",1995
+BKN,Brooklyn Nets,Barclays Center,"17,732",2012
+CHA,Charlotte Hornets,Spectrum Center,"19,077",2005
+CHI,Chicago Bulls,United Center,"20,917",1994
+CLE,Cleveland Cavaliers,Rocket Mortgage FieldHouse,"20,562",1994
+DAL,Dallas Mavericks,American Airlines Center,"19,200",2001
+DEN,Denver Nuggets,Pepsi Center,"19,155",1999
+DET,Detroit Pistons,Little Caesars Arena,"20,491",2017
+GSW,Golden State Warriors,Oracle Arena,"19,596",1966
+HOU,Houston Rockets,Toyota Center,"18,055",2003
+IND,Indiana Pacers,Bankers Life Fieldhouse,"18,165",1999
+LAC,Los Angeles Clippers,Staples Center,"19,067",1999
+LAL,Los Angeles Lakers,Staples Center,"19,067",1999
+MEM,Memphis Grizzlies,FedExForum,"18,119",2004
+MIA,Miami Heat,American Airlines Arena,"19,600",1999
+MIL,Milwaukee Bucks,Fiserv Forum,"17,500",2018
+MIN,Minnesota Timberwolves,Target Center,"19,356",1990
+NOP,New Orleans Pelicans,Smoothie King Center,"16,867",1999
+NYK,New York Knicks,Madison Square Garden,"19,812",1968
+OKC,Oklahoma City Thunder,Chesapeake Energy Arena,"18,203",2002
+ORL,Orlando Magic,Amway Center,"18,846",2010
+PHI,Philadelphia 76ers,Wells Fargo Center,"20,478",1996
+PHX,Phoenix Suns,Talking Stick Resort Arena,"18,055",1992
+POR,Portland Trail Blazers,Moda Center,"19,441",1995
+SAC,Sacramento Kings,Golden 1 Center,"17,500",2016
+SAS,San Antonio Spurs,AT&T Center,"18,418",2002
+TOR,Toronto Raptors,Scotiabank Arena,"19,800",1999
+UTA,Utah Jazz,Vivint Smart Home Arena,"19,911",1991
+WAS,Washington Wizards,Capital One Arena,"20,356",1997
