@@ -26,8 +26,8 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random
 
 ### Projects:  
 
-- [NBA Playmin Feature Engineering](https://github.com/Johnnydaszhu/Data-Science/tree/master/ML_Project1)
-- [NBA Playmin Random Forest](https://github.com/Johnnydaszhu/Data-Science/tree/master/Final_Project)
+- [NBA Playmin Feature Engineering(MidTerm)](https://github.com/Johnnydaszhu/Data-Science/tree/master/ML_Project1)
+- [NBA Playmin Random Forest(Final)](https://github.com/Johnnydaszhu/Data-Science/tree/master/Final_Project)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
